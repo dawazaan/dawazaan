@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dawa Zangpo
-- 👀 I’m interested in computer programing(Python and JavaScript).
+- 👀 I’m interested in computer programing(Python, Swift and JavaScript).
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Web application and Machine Learning
+- 💞️ I’m looking to collaborate on Web application, mobile application and Machine Learning
 - 📫 How to reach me ...
 
 <!---
